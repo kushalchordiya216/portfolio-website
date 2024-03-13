@@ -55,7 +55,7 @@ export const experiencesData = [
     title: "Software Engineer II",
     location: "Remote, Hyderbad, IN",
     description:
-      "I will be joining Indeed as an SWE II, working on the core platform and infrastructures that power many critical business functions",
+      "I will be joining Indeed India as an SWE II, working on the core platform and infrastructures that power many critical business functions",
     icon: React.createElement(SiIndeed),
     date: "2024 - present",
   },
