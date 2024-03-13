@@ -23,10 +23,10 @@ export default function About() {
         <span className="font-medium">Computer Science</span>, I joined as a Software engineer in Trilogy Inovations.{" "}
       </p>
       <p>
-        <span className="italic">My favorite part of programming</span> has always been the
+        My favorite part of programming has always been the
         problem-solving aspect. I <span className="underline">love</span> the
         feeling of finally figuring out a solution to a problem. 
-        During my time at TI, I gained exposure to many practical skills, both technical, like my expertise in AWS and non-technical, like truly understanding your customers, to deliver maximum value to them. 
+        During my time at TI, I gained exposure to many practical skills, both technical, like my expertise in AWS and non-technical, like the importance of communicating with customers, to deliver maximum value to them. 
         I will soon be joining Indeed as a SWE-2{" "}
       </p>
       <p>
@@ -36,7 +36,7 @@ export default function About() {
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
+        When I'm not coding, I enjoy playing
         badminton, watching movies, and reading books on fiction and philosophy.
       </p>
     </motion.section>
