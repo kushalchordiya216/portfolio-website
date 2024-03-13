@@ -1,6 +1,7 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
+import {SiIndeed} from "react-icons/si"
 import { LuGraduationCap } from "react-icons/lu";
 import corpcommentImg from "@/public/corpcomment.png";
 import rmtdevImg from "@/public/rmtdev.png";
@@ -35,28 +36,28 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Graduated bootcamp",
-    location: "Miami, FL",
+    title: "Graduated from College",
+    location: "Pune, IN",
     description:
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
+      "I graduated with a Bachelor's degree in Computer Science, from Pune Institute of Computer Technology, with a CGPA of 9.23",
     icon: React.createElement(LuGraduationCap),
-    date: "2019",
+    date: "2017 - 2021",
   },
   {
-    title: "Front-End Developer",
-    location: "Orlando, FL",
+    title: "Software Engineer",
+    location: "Remote, Bangalore, IN",
     description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
+      "I worked as a Software engineer at Trilogy Innovations, working on various fullstack applications built on top of AWS. I was promoted in recognition of my contributions and awarded for my technical excellence during my tenure at the company",
     icon: React.createElement(CgWorkAlt),
-    date: "2019 - 2021",
+    date: "2021 - 2024",
   },
   {
-    title: "Full-Stack Developer",
-    location: "Houston, TX",
+    title: "Software Engineer II",
+    location: "Remote, Hyderbad, IN",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
-    icon: React.createElement(FaReact),
-    date: "2021 - present",
+      "I will be joining Indeed as an SWE II, working on the core platform and infrastructures that power many critical business functions",
+    icon: React.createElement(SiIndeed),
+    date: "2024 - present",
   },
 ] as const;
 
